@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello, I'm Annu!
 
-<!--
-**Annulijo/Annulijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Data Scientist 
 
-Here are some ideas to get you started:
+📍 **Kochi,kerala**  
+📧 **Email:** [contact@anjo.com](mailto:annulijo9@gmail.com)  
+🔗 **LinkedIn:** [annu](https://www.linkedin.com/in/annu-lijo-265518256/)  
+👨‍💻 **GitHub:** [anjo](https://github.com/Annulijo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Professional Highlights 🌟
+- **Data Science Intern** - Luminar Technolab, Kochi (2024 - Present)
+- **Data Science Intern** - Unified Mentor, Trivandrum (2024)
+- **Machine Learning Intern** - Nest Cyber Cambus, Kochi (2023)
+
+
+### Tech Toolbox 🛠️
+- **Languages:** Python, C
+- **Machine Learning:** Regression, Classification, Clustering, Neural Networks
+- **Data Analysis and Visualization:** NumPy, Pandas, Matplotlib, Seaborn, PowerBI
+- **Tools and Frameworks:** Jupyter Notebook, Google Colab, Scikit-Learn
+- **Database Management:** SQL, MySQL, MS Excel
+
+### Education 🎓
+**B.tech in Artificial intelligence and Data Science**, Rajagiri school Of Engineering and Technology
+
+### Certifications 📜
+- **Coursera:** Cloud computing, MS Excel
+- **Hackerrank:** Python Programming

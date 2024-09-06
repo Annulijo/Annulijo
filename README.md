@@ -1,6 +1,9 @@
 # 👋 Hello, I'm Annu!
 # 🚀 Aspiring Data Scientist, specialized in Artificial Intelligence and Data Science
 
+# 🎓 Education 
+**B.tech in Artificial intelligence and Data Science**, Rajagiri school Of Engineering and Technology
+
 📍 **Kochi,kerala**  
 📧 **Email:** [contact@anjo.com](mailto:annulijo9@gmail.com)  
 🔗 **LinkedIn:** [annu](https://www.linkedin.com/in/annu-lijo-265518256/)  
@@ -19,16 +22,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Annulijo&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Annulijo&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Annulijo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-# 🛠️ Tech Toolbox 
-- **Languages:** Python, C
-- **Machine Learning:** Regression, Classification, Clustering, Neural Networks
-- **Data Analysis and Visualization:** NumPy, Pandas, Matplotlib, Seaborn, PowerBI
-- **Tools and Frameworks:** Jupyter Notebook, Google Colab, Scikit-Learn
-- **Database Management:** SQL, MySQL, MS Excel
-
-# 🎓 Education 
-**B.tech in Artificial intelligence and Data Science**, Rajagiri school Of Engineering and Technology
 
 # 📜 Certifications 
 - **Forage Accenture:** Data Analysis and Visualization Internship

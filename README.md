@@ -1,13 +1,14 @@
 # 👋 Hello, I'm Annu!
 # 🚀 Aspiring Data Scientist, specialized in Artificial Intelligence and Data Science
 
-# 🎓 Education 
-**B.tech in Artificial intelligence and Data Science**, Rajagiri school Of Engineering and Technology
 
 📍 **Kochi,kerala**  
 📧 **Email:** [contact@anjo.com](mailto:annulijo9@gmail.com)  
 🔗 **LinkedIn:** [annu](https://www.linkedin.com/in/annu-lijo-265518256/)  
 👨‍💻 **GitHub:** [anjo](https://github.com/Annulijo)
+
+### 🎓 Education 
+**B.tech in Artificial intelligence and Data Science**, Rajagiri school Of Engineering and Technology
 
 # 🌟 Professional Highlights 
 - **Machine Learning Intern** - ICFOSS, Trivandrum (2024 - Present)

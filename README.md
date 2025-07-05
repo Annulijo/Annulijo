@@ -2,7 +2,7 @@
 # 🚀 Associate Software Engineer, specialized in Artificial Intelligence and Data Science
 
 
-📍 **Kochi,kerala**  
+📍 **Bengaluru, Karnataka**  
 📧 **Email:** [contact@anjo.com](mailto:annulijo9@gmail.com)  
 🔗 **LinkedIn:** [annu](https://www.linkedin.com/in/annu-lijo-265518256/)  
 👨‍💻 **GitHub:** [anjo](https://github.com/Annulijo)

@@ -11,7 +11,7 @@
 **B.tech in Artificial intelligence and Data Science**, Rajagiri school Of Engineering and Technology
 
 # 🌟 Professional Highlights 
-- **Machine Learning Intern** - ICFOSS, Trivandrum (2024 - Present)
+- **Associate Software Engineer** - CGI, Bengaluru (2024 - Present)
 - **Data Science Intern** - Luminar Technolab, Kochi (2024 - Present)
 - **Data Science Intern** - Unified Mentor, Trivandrum (2024)
 - **Machine Learning Intern** - Nest Cyber Cambus, Kochi (2023)
@@ -25,6 +25,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Annulijo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # 📜 Certifications 
+- **SkillSoft:** Introduction to Machine Learning, Graph Analytics with neo4j
 - **Forage Accenture:** Data Analysis and Visualization Internship
 - **Forage British Airways**  Data Science and Job Simulation Internship
 - **Coursera IBM:** Cloud computing, MS Excel
